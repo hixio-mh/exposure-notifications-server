@@ -31,14 +31,13 @@ require (
 	github.com/containerd/continuity v0.0.0-20200710164510-efbc4488d8fe // indirect
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/frankban/quicktest v1.8.1 // indirect
-	github.com/gin-gonic/gin v1.6.3
+	github.com/gin-gonic/gin v1.9.0
 	github.com/go-ole/go-ole v1.2.4 // indirect
-	github.com/go-playground/validator/v10 v10.3.0 // indirect
 	github.com/go-test/deep v1.0.6 // indirect
 	github.com/golang-migrate/migrate/v4 v4.12.2
-	github.com/golang/protobuf v1.4.2
+	github.com/golang/protobuf v1.5.0
 	github.com/golang/snappy v0.0.2 // indirect
-	github.com/google/go-cmp v0.5.2
+	github.com/google/go-cmp v0.5.5
 	github.com/google/mako v0.2.0
 	github.com/google/uuid v1.1.2
 	github.com/gorilla/mux v1.8.0 // indirect
@@ -63,7 +62,6 @@ require (
 	github.com/kelseyhightower/envconfig v1.4.0 // indirect
 	github.com/kelseyhightower/run v0.0.17
 	github.com/keybase/go-crypto v0.0.0-20200123153347-de78d2cb44f4 // indirect
-	github.com/kr/text v0.2.0 // indirect
 	github.com/lib/pq v1.8.0 // indirect
 	github.com/lstoll/awskms v0.0.0-20200603175638-a388516467f1
 	github.com/mattn/go-colorable v0.1.7 // indirect
@@ -71,7 +69,6 @@ require (
 	github.com/mitchellh/cli v1.1.1 // indirect
 	github.com/mitchellh/go-testing-interface v1.14.1 // indirect
 	github.com/mitchellh/mapstructure v1.3.3
-	github.com/niemeyer/pretty v0.0.0-20200227124842-a10e7caefd8e // indirect
 	github.com/oklog/run v1.1.0 // indirect
 	github.com/onsi/ginkgo v1.13.0 // indirect
 	github.com/opencontainers/go-digest v1.0.0 // indirect
@@ -90,26 +87,19 @@ require (
 	github.com/shirou/gopsutil v2.20.4+incompatible // indirect
 	github.com/shopspring/decimal v0.0.0-20200419222939-1884f454f8ea // indirect
 	github.com/smartystreets/assertions v1.0.0 // indirect
-	github.com/stretchr/objx v0.3.0 // indirect
-	github.com/stretchr/testify v1.6.1 // indirect
 	github.com/tv42/httpunix v0.0.0-20191220191345-2ba4b9c3382c // indirect
 	github.com/ugorji/go v1.1.8 // indirect
 	go.opencensus.io v0.22.4
 	go.uber.org/multierr v1.6.0 // indirect
 	go.uber.org/zap v1.16.0
-	golang.org/x/crypto v0.0.0-20200820211705-5c72a883971a // indirect
-	golang.org/x/net v0.0.0-20200923182212-328152dc79b1 // indirect
 	golang.org/x/oauth2 v0.0.0-20200902213428-5d25da1a8d43
-	golang.org/x/sys v0.0.0-20200923182605-d9f96fdee20d // indirect
-	golang.org/x/tools v0.0.0-20200923182640-463111b69878
+	golang.org/x/tools v0.1.12
 	google.golang.org/api v0.32.0
 	google.golang.org/genproto v0.0.0-20200924141100-a14c0a98937d
 	google.golang.org/grpc v1.32.0
-	google.golang.org/protobuf v1.25.0
-	gopkg.in/check.v1 v1.0.0-20200227125254-8fa46927fb4f // indirect
+	google.golang.org/protobuf v1.28.1
 	gopkg.in/ini.v1 v1.56.0 // indirect
 	gopkg.in/square/go-jose.v2 v2.5.1 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200615113413-eeeca48fe776 // indirect
 	honnef.co/go/tools v0.0.1-2020.1.5
 	k8s.io/api v0.18.7-rc.0 // indirect
 	sigs.k8s.io/structured-merge-diff/v3 v3.0.1-0.20200706213357-43c19bbb7fba // indirect
